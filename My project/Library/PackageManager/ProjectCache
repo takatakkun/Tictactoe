@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638642227273080804
-    m_Hash: 3441753279
+      ticks: 638642244320168326
+    m_Hash: 3414204836
   m_LockFileStatus:
     m_FilePath: "C:/Users/tkttk/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/Tictactoe/My
       project/Packages/packages-lock.json"
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638642227273181191
-    m_Hash: 1914522658
+      ticks: 638642244320168326
+    m_Hash: 3542683779
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
