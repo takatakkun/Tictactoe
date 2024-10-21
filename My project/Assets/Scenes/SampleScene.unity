@@ -170,7 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 795700561}
   distance: 3
-  rotationSpeed: 100
+  rotationSpeed: 70
 --- !u!1 &624782528
 GameObject:
   m_ObjectHideFlags: 0
