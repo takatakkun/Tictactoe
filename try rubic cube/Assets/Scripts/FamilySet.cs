@@ -62,7 +62,7 @@ public class FamilySet : MonoBehaviour
             Vector3 tmp = Cube[i].transform.position;
             float y = tmp.y;
 
-            if ((y < -1.5) && (y > -2.5))
+            if ((y < 0.5) && (y > -0.5))
             {
                 Cube[i].transform.parent = YMinusParent.transform;
             }
